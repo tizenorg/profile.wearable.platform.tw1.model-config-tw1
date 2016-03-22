@@ -141,10 +141,13 @@
 		<key name="tizen.org/feature/sensor.barometer" type="bool">true</key>
 		<key name="tizen.org/feature/sensor.barometer.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.bio" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.geomagnetic_rotation_vector" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.gesture_recognition" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.gravity" type="bool">true</key>
 		<key name="tizen.org/feature/sensor.gyroscope" type="bool">true</key>
+		<key name="tizen.org/feature/sensor.gyroscope.uncalibrated" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.gyroscope.wakeup" type="bool">false</key>
+		<key name="tizen.org/feature/sensor.gyroscope_rotation_vector" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.heart_rate_monitor" type="bool">true</key>
 		<key name="tizen.org/feature/sensor.heart_rate_monitor.led_green" type="bool">true</key>
 		<key name="tizen.org/feature/sensor.heart_rate_monitor.led_ir" type="bool">false</key>
@@ -152,6 +155,7 @@
 		<key name="tizen.org/feature/sensor.humidity" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.linear_acceleration" type="bool">true</key>
 		<key name="tizen.org/feature/sensor.magnetometer" type="bool">false</key>
+		<key name="tizen.org/feature/sensor.magnetometer.uncalibrated" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.magnetometer.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.pedometer" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.photometer" type="bool">true</key>
@@ -159,6 +163,7 @@
 		<key name="tizen.org/feature/sensor.proximity" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.proximity.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.rotation_vector" type="bool">false</key>
+		<key name="tizen.org/feature/sensor.sleep_monitor" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.temperature" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.tiltmeter" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.tiltmeter.wakeup" type="bool">false</key>
