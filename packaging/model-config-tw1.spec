@@ -35,3 +35,4 @@ rm -rf %{_libdir}/buxton/init-buxton-config.sh
 %config %{_sysconfdir}/config/model-config.xml
 %{_libdir}/buxton/init-buxton-config.sh
 %manifest model-config.manifest
+%license LICENSE.Apache-2.0
