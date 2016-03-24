@@ -53,7 +53,7 @@
 		<key name="tizen.org/feature/network.bluetooth.hid" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.le" type="bool">true</key>
 		<key name="tizen.org/feature/network.bluetooth.opp" type="bool">false</key>
-		<key name="tizen.org/feature/network.internet" type="bool">false</key>
+		<key name="tizen.org/feature/network.internet" type="bool">true</key>
 		<key name="tizen.org/feature/network.nfc" type="bool">true</key>
 		<key name="tizen.org/feature/network.nfc.tag" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc.p2p" type="bool">false</key>
